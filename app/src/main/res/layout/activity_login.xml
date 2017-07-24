@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.android.foundvet.LoginActivity"
+    tools:context="com.example.android.foundvet.login.LoginActivity"
     android:background="@color/colorPrimary" >
 
     <EditText
