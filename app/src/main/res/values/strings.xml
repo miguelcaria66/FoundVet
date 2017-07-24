@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">FoundVet</string>
+
+    <string name="title_activity_tutorial">TutorialActivity</string>
+
+    <!-- Tutorial -->
+    <string name="tut0">Bem-Vindo à Found Vet!</string>
+
+
+    <!-- Actions -->
+    <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+
+    <!-- Login and Register -->
+    <string name="display_name">Nome</string>
+    <string name="display_password" translatable="false">Password</string>
+    <string name="display_login">LOGIN</string>
+    <string name="sign_up">Não tem uma conta? <u><b>Crie uma</b></u></string>
+    <string name="next">PRÓXIMO</string>
+    <string name="name">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="first_name">Primeiro nome</string>
+    <string name="second_name">Apelido</string>
+    <string name="birthday">Data de Nascimento</string>
+    <string name="gender">Sexo</string>
+    <string name="radio_male">Masculino</string>
+    <string name="radio_female">Feminino</string>
+    <string name="phone_number">Número de Telemóvel</string>
+    <string name="street">Rua</string>
+    <string name="number">Número</string>
+    <string name="city">Cidade</string>
+    <string name="postal_code">Código Postal</string>
+    <string name="country">País</string>
+    <string name="auth_failed">Autenticação falhou</string>
+    <string name="facebook_app_id">1420322004680711</string>
+    <string name="fb_login_protocol_scheme">fb1420322004680711</string>
+
+</resources>
